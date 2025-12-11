@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+
+.main-container-flex {
+    justify-content: center;
+    display: flex;
+}
+
+.margin-divs {
+    margin: 25px;
+}
+
+
+.firstContainer {
+    width: 300px;
+    border-right: solid 1px rgb(129, 129, 129);
+}
+
+.profile-area {
+    justify-content: center;
+    display: flex;
+}
+
+img {
+    width: 100px;
+}
+
+.contact {
+    display: flex;
+    align-items: center;
+}
+
+.contact-text {
+    font-weight: bold;
+}
+
+.horizontal-line-contact {
+    width: 200px;
+    background-color: black;
+    height: 2px;
+}
+
+.display-flex-contact {
+    display: flex;
+}
+
+.info-size {
+    font-size: 10px;
+}
+
+.display-flex-contact {
+    gap: 10px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.bi-geo-alt-fill {
+    font-size: 10px;
+}
+
+.skills-text {}
+
+.bold-text {
+    font-weight: bold;
+}
+
+.display-flex-skills {
+    margin-left: 40px;
+}
+
+.skills-margin {
+    margin-top: 10px;
+}
+
+.container {
+    display: flex;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px 20px 100px 20px;
+    margin-top: 40px;
+    background-color: white;
+
+}
+
+.name,
+.lastname {
+    font-size: 30px;
+}
+
+.secondContainer {
+
+    margin: 40px 0 0 20px;
+}
+
+.lastname {
+    font-weight: bold;
+}
+
+.second-labeled {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+.objective-info {
+    width: 280px;
+    margin: 20px 0 0 20px;
+}
+
+.info-school {
+    margin-left: 20px;
+}
