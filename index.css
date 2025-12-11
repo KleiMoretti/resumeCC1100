@@ -111,9 +111,11 @@ img {
 
 .objective-info {
     width: 280px;
-    margin: 20px 0 0 20px;
+    margin: 15px 0 0 20px;
 }
 
 .info-school {
     margin-left: 20px;
+    margin-top: 15px;
+
 }
